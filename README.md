@@ -1,4 +1,4 @@
-![Phase One of the MCU](images/marvel_banner.png "MCU Phase 1")
+![Phase One of the MCU](images/Marvel-10-Years-Banner.jpg "MCU Phase 1")
 
 # All About the MCU
 A retrospective on phase 1 of the Marvel Cinematic Universe. You can visit [marvel.com](https://www.marvel.com) for more info, or click on the character icons to load their info on the page.

@@ -1,6 +1,4 @@
-# GroupA_LabReview
-Adding text to get out of sync
+![Phase One of the MCU] (marvel_banner.jpg "MCU Phase 1")
 
-
-## this is what you need to make the project work;
-some specs are here
+# All About the MCU
+A retrospective on phase 1 of the Marvel Cinematic Universe

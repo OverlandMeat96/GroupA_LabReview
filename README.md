@@ -1,6 +1,5 @@
-# GroupA_LabReview
-Adding text to get out of sync
+# Lab Review - Group 
+Working through some common issues with github
 
-
-## this is what you need to make the project work;
-some specs are here
+## changing more stuff to breakify it 
+breaking and fixing workflow!

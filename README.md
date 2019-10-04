@@ -9,9 +9,11 @@ Use a modern browser (if you don't have one, use Internet Explorer to download s
 Not a lot - you'll need git installed localy, as well as a preprocessor like [SASS](https://sass-lang.com/) for CSS compilation. A good code editor helps too!
 
 ## Built with:
-HTML
-CSS
-JavaScript
+<ul>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>JavaScript</li>
+</ul>
 
 ## Installation, etc
 CD to the location of your choice, and then git clone. Hack away!
@@ -20,8 +22,10 @@ CD to the location of your choice, and then git clone. Hack away!
 MIT
 
 ## Authors
-TVR - front-end dev
-JB - web designer
-JO - graphic designer
-JB - 3D / Motion
-RH - Photography
+<ul>
+	<li>TVR - front-end dev</li>
+	<li>JB - web designer</li>
+	<li>JO - graphic designer</li>
+	<li>JB - 3D / Motion</li>
+	<li>RH - Photography</li>
+<ul>
